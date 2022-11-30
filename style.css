@@ -70,6 +70,7 @@ main{
 .random{
     display: flex;
     flex-direction: column;
+    height: 400px;
 }
 .random h2{
     display: flex;
@@ -98,3 +99,14 @@ main{
     width: 170px;
     height: 170px;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    padding:70px 250px;
+}
+.quote_text{
+    font-size: 16px;
+    font-style: italic;
+    color:#1F2937;
+}
+
